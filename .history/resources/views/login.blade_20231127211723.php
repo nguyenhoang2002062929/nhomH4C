@@ -2,8 +2,7 @@
 @section("content")
 <style>
     .title-login{
-        font-size: 40px;
-        margin-bottom: 20px;
+        fon
     }
 </style>
 <div class="container custom-login">

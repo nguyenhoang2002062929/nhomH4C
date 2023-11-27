@@ -1,15 +1,9 @@
 @extends('master')
 @section("content")
-<style>
-    .title-login{
-        font-size: 40px;
-        margin-bottom: 20px;
-    }
-</style>
 <div class="container custom-login">
     <div class="row">
         <div class="col-sm-4 col-sm-offset-4">
-            <h3 class="title-login">Đăng nhập</h3>
+            <h3>Đăng nhập</h3>
             <form action="login" method="POST" >
                 <div class="form-group">
                     @csrf

@@ -1,11 +1,5 @@
 @extends('master')
 @section("content")
-<style>
-    .title-login{
-        font-size: 40px;
-        margin-bottom: 20px;
-    }
-</style>
 <div class="container custom-login">
     <div class="row">
         <div class="col-sm-4 col-sm-offset-4">
